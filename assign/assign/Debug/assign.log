@@ -1,0 +1,8 @@
+﻿  源.cpp
+e:\leedcode\assign\assign\源.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+e:\leedcode\assign\assign\源.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+e:\leedcode\assign\assign\源.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+e:\leedcode\assign\assign\源.cpp(130): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“time_t”
+  e:\leedcode\assign\assign\源.cpp(130): note: 请考虑在格式字符串中使用“%lld”
+  e:\leedcode\assign\assign\源.cpp(130): note: 请考虑在格式字符串中使用“%I64d”
+  assign.vcxproj -> E:\leedcode\assign\Debug\assign.exe

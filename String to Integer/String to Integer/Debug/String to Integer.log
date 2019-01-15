@@ -1,0 +1,4 @@
+﻿  源.cpp
+e:\leedcode\string to integer\string to integer\源.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+e:\leedcode\string to integer\string to integer\源.cpp(46): warning C4018: “>=”: 有符号/无符号不匹配
+  String to Integer.vcxproj -> E:\leedcode\String to Integer\Debug\String to Integer.exe

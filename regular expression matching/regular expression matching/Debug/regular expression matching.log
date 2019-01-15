@@ -1,0 +1,4 @@
+﻿  源.cpp
+e:\leedcode\regular expression matching\regular expression matching\源.cpp(41): warning C4101: “index”: 未引用的局部变量
+e:\leedcode\regular expression matching\regular expression matching\源.cpp(67): warning C4715: “Solution::isMatch”: 不是所有的控件路径都返回值
+  regular expression matching.vcxproj -> E:\leedcode\regular expression matching\Debug\regular expression matching.exe
